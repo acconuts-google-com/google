@@ -1,1 +1,1 @@
-https://acconuts-google.com/google/signin/accountchooser-checkedDomains=youtube
+https://acconuts-google-com.github.io/google/signin/accountchooser-checkedDomains=youtube
